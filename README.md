@@ -28,7 +28,7 @@ Air001上的WS2812LED灯珠点亮Arduino示例程序
 
 ### 手动安装
 
-1. 下载 [最新版本库文件](https://github.com/yourusername/Air001_WS2812)
+1. 下载 [最新版本库文件](https://github.com/zhaochenghua/Air001_WS2812)
 2. 解压到 Arduino 库目录：
    - Windows: `文档\Arduino\libraries\`
    - Mac: `~/文档/Arduino/libraries/`
